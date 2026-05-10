@@ -1,10 +1,4 @@
 """
-Shadow AI Demo Application
---------------------------
-
-Purpose:
-This small demo repo intentionally contains external AI usage patterns so that
-a Shadow AI / AI Governance scanner can detect them.
 
 It includes:
 - OpenAI SDK usage
