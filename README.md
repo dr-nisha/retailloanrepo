@@ -53,3 +53,4 @@ This repo represents a banking loan-origination service where a developer has em
 A mature Shadow AI module should flag this because sensitive business/customer data may leave the organization through unapproved AI providers.
 # retail-loan-orientation
 # retail-loan-orientation
+# retail-loan-orientation
